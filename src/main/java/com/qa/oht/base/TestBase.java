@@ -1,3 +1,7 @@
+/*
+ * This is my test base class
+ */
+
 package com.qa.oht.base;
 
 import java.io.FileInputStream;
